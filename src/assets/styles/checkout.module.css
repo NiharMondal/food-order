@@ -1,0 +1,21 @@
+.back_home{
+  background-color: black;
+  color: aliceblue;
+  text-decoration: none;
+  padding: .5rem 1.3rem;
+}
+.img{
+  transform: scale(.5);
+}
+.cmn_btn{
+  padding: .1rem .8rem;
+  border: none;
+  margin: .08rem;
+}
+.remove_btn{
+  padding: .4rem 1rem;
+  background-color: red;
+  border: 1px solid red;
+  color: #fff;
+  margin-top: 5px;
+}
