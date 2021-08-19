@@ -11,7 +11,7 @@ function App() {
         <Route exact={true} path="/menu">
           <Menu />
         </Route>
-        <Route>
+        <Route path="/checkout">
           <Checkout/>
         </Route>
       </Switch>
